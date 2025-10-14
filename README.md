@@ -32,7 +32,7 @@ AI: *generates and executes the appropriate CREATE TABLE statement*
 
 ### Installation
 ```bash
-git clone https://github.com/USERNAME/mssql-mcp-server.git
+git clone https://github.com/Nirmal123K/mssql-mcp.git
 cd mssql-mcp-server
 npm install && npm run build
 ```
@@ -190,6 +190,4 @@ We are **deeply grateful** to Microsoft and the Azure team for creating the foun
 
 ---
 
-> **Note**: Replace `USERNAME` with your actual GitHub username before publishing.
->
 > **License**: MIT License - see [LICENSE](LICENSE) file for details.
