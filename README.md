@@ -6,6 +6,10 @@
 
 > **A Model Context Protocol (MCP) server that enables AI assistants to interact with both local SQL Server and Azure SQL Database through natural language.**
 
+<a href="https://glama.ai/mcp/servers/@Nirmal123K/mssql-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Nirmal123K/mssql-mcp/badge" alt="MSSQL Server MCP server" />
+</a>
+
 ## 🚀 What Makes This Special?
 
 This MCP server **solves a critical limitation** of existing solutions by supporting **both local SQL Server and Azure SQL Database** connections. While the original Azure-Samples implementation only works with Azure SQL Database, this enhanced version enables:
